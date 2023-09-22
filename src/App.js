@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React with VS Code
+          Deploy React with AWS S3 bucket using ci/cd pipeline
         </a>
       </header>
     </div>
